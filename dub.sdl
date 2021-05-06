@@ -1,0 +1,4 @@
+name "uritemplate"
+description "RFC 6570 URI Template expansion implementation"
+license "public domain"
+authors "webfreak"
